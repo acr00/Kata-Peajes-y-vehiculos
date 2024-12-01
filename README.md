@@ -2,6 +2,10 @@
 
  <img src="https://github.com/acr00/Kata-Peajes-y-vehiculos/blob/main/uml.PNG?raw=true" alt="Peajes y Vehiculos UML">
 
+  <img src="https://github.com/acr00/Kata-Peajes-y-vehiculos/blob/main/CapturaPeaje.PNG?raw=true" alt="Peajes y Vehiculos UML">
+
+ 
+
 # Sistema de Peaje
 Este proyecto implementa un sistema de peaje en Java, que permite gestionar el cobro de peajes para diferentes tipos de vehículos en una estación de peaje.
 
