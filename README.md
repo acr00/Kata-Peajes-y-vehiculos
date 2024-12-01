@@ -1,5 +1,7 @@
 ﻿# Kata-Peajes-y-vehiculos
 
+ <img src="https://github.com/acr00/Kata-Peajes-y-vehiculos/blob/main/uml.PNG?raw=true" alt="Peajes y Vehiculos UML">
+
  +-------------------+
 | Vehiculo         |
 +-------------------+
@@ -55,6 +57,5 @@
 | + cobrarPeaje()   |
 | + imprimirImporte()|
 +-------------------+
-
 
 
